@@ -1,0 +1,44 @@
+[
+    {
+        "raw": "Hi, This is XMPP.JP Admin.\nWe just launched new XMPP Web Clinent \"inverse\".\nhttps://www.xmpp.jp/client\n\nPlease try it. Thanks.",
+        "amount": 0.0,
+        "type": "unknown",
+        "timestamp": "2026-03-18T11:21:44.077365",
+        "category": "Food"
+    },
+    {
+        "raw": "You sent GHS 50.00 to Ama.",
+        "amount": 50.0,
+        "type": "debit",
+        "timestamp": "2026-03-18T11:32:28.432524",
+        "category": "Transfers"
+    },
+    {
+        "raw": "You received GHS 200.00 from Kojo.",
+        "amount": 200.0,
+        "type": "credit",
+        "timestamp": "2026-03-18T11:32:32.434378",
+        "category": "Miscellaneous"
+    },
+    {
+        "raw": "Airtime purchase of GHS 15 successful.",
+        "amount": 15.0,
+        "type": "unknown",
+        "timestamp": "2026-03-18T11:32:36.436186",
+        "category": "Airtime/Data"
+    },
+    {
+        "raw": "Paid utility bill of GHS 120.",
+        "amount": 120.0,
+        "type": "unknown",
+        "timestamp": "2026-03-18T11:32:40.437477",
+        "category": "Bills"
+    },
+    {
+        "raw": "You sent GHS 10.00 to Esi.",
+        "amount": 10.0,
+        "type": "debit",
+        "timestamp": "2026-03-18T11:32:44.439643",
+        "category": "Transfers"
+    }
+]
